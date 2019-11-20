@@ -1,0 +1,19 @@
+{
+ "type": "object",
+ "properties": {
+   "f1": {
+     "type": "integer"
+   },
+   "f2": {
+     "type": "number"
+   },
+   "f3": {
+     "type": "string"
+   }
+ },
+ "propertiesOrder": [
+   "f1",
+   "f2",
+   "f3"
+ ]
+}
